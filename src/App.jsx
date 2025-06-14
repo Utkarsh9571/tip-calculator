@@ -51,7 +51,7 @@ export default function App() {
             <label className='text-Grey400' htmlFor="bill">Bill
               <div className='relative' >
                 <span className='absolute top-1/3 left-4'>
-                  <img src="/public/images/icon-dollar.svg" alt="icon-dollar" />
+                  <img src="/images/icon-dollar.svg" alt="icon-dollar" />
                 </span>
                 <input 
                   className='w-full bg-Grey50 p-2.5 mt-1 text-right text-2xl text-Green900 
@@ -176,7 +176,7 @@ export default function App() {
             <label className='relative text-Grey400' htmlFor="no-of-people">Number of People
               <div className='relative'>    
                 <span className='absolute top-1/3 left-4'>
-                  <img src="/public/images/icon-person.svg" alt="icon-person" />
+                  <img src="/images/icon-person.svg" alt="icon-person" />
                 </span>
                 <input 
                   className={`w-full bg-Grey50 p-2.5 mt-1 text-right text-2xl text-Green900  outline-Green400 
